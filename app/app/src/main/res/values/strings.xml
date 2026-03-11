@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DailyMate</string>
+    
+    <!-- 主界面 -->
+    <string name="title_settings">应用设置</string>
+    <string name="title_ai_model">AI模型选择</string>
+    <string name="title_summary_style">总结风格</string>
+    <string name="title_storage_path">存储路径</string>
+    <string name="title_service_control">服务控制</string>
+    
+    <!-- 按钮 -->
+    <string name="btn_start_service">启动监听服务</string>
+    <string name="btn_stop_service">停止监听服务</string>
+    <string name="btn_view_records">查看记录</string>
+    <string name="btn_generate_summary">生成今日摘要</string>
+    
+    <!-- 提示信息 -->
+    <string name="hint_summary_style">例如：简洁、详细、专业等</string>
+    <string name="service_running">服务运行中</string>
+    <string name="service_stopped">服务已停止</string>
+    
+    <!-- 通知 -->
+    <string name="notification_channel_name">语音监听服务</string>
+    <string name="notification_channel_desc">持续监听环境音频并转换为文本</string>
+    <string name="notification_title">DailyMate正在监听</string>
+    <string name="notification_content">点击查看详情</string>
+    
+    <!-- 权限说明 -->
+    <string name="permission_audio_rationale">需要录音权限以监听环境音频</string>
+    <string name="permission_notification_rationale">需要通知权限以显示服务状态</string>
+    
+    <!-- 错误信息 -->
+    <string name="error_permission_denied">权限被拒绝，无法启动服务</string>
+    <string name="error_service_start_failed">服务启动失败</string>
+</resources>

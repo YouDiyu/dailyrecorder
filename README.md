@@ -1,3 +1,6 @@
+### app: Android App runs on mobile
+### server: ASR server, need GPU
+### refer the nginx config to setup nginx
 # DailyRecorder：你的智能语音日记伴侣
 DailyRecorder 是一款创新的智能应用，旨在帮助用户轻松记录生活点滴。它通过实时语音识别与自然语言处理技术，自动将您的日常语音转化为结构清晰的文字日记，让记录与回顾生活变得前所未有的简单和高效。
 
